@@ -1,0 +1,22 @@
+body {
+    background-image:url("backgroundCover.jpg.jpg");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-family: "SUSE", sans-serif;
+}
+
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+
+}
+
+button {
+    border: none;
+    
+}
